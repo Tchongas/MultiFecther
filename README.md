@@ -4,7 +4,7 @@ Simple multi instance for speedrunning the game, you can add other instances by 
 ## HOW TO INSTALL
 Put the macro in the same folder as your Flash Player, and make sure the name of the Flash Player is **flashplayer_32_sa.exe**, after that you can open the macro
 
-##HOW TO USE
+## HOW TO USE
 You can change all the binds if you want, but by default its: Q, 1, 2, 3
 
 - Press **Q** to start all the games, **DO NOT OPEN THE GAMES MANUALLY, THE MACRO DOES THAT FOR YOU**;
