@@ -1,3 +1,4 @@
+Someone gave me 1 dollar to code this
 # MultiFetcher
 
 Simple multi instance for speedrunning the game, you can add other instances by editing the code, by default its 3
